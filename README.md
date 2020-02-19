@@ -1,5 +1,7 @@
 # RL Starter Files
-this a modified version of the https://github.com/lcswillems/rl-starter-files for windows
+**this a modified version of the https://github.com/lcswillems/rl-starter-files for windows**
+**To run on windows you need to run the code within an Anaconda to be able to install pytorch on windows**
+**https://www.anaconda.com/distribution/**
 RL starter files in order to immediatly train, visualize and evaluate an agent **without writing any line of code**.
 
 <p align="center">
